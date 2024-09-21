@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ctrl-Step-STM32-fw"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ctrl-Step-STM32-fw.elf">
+				<Option output="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Ctrl-Step-STM32-fw.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-D__MICROLIB"/>
+					<Add option="-DSTM32F1"/>
+					<Add option="-DSTM32F1xx"/>
+					<Add option="-DSTM32F103xB"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Sensor"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Signal"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/LowLevel"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/MotorControl"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/UserApp"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/include"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/include-fixed"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ctrl-Step-STM32-fw.elf"/>
+					<CompileFile command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ctrl-Step-STM32-fw.elf/fast">
+				<Option output="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Ctrl-Step-STM32-fw.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-D__MICROLIB"/>
+					<Add option="-DSTM32F1"/>
+					<Add option="-DSTM32F1xx"/>
+					<Add option="-DSTM32F103xB"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Sensor"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Signal"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/LowLevel"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/MotorControl"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/UserApp"/>
+					<Add directory="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/include"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/include-fixed"/>
+					<Add directory="d:\00green\gcc-arm-none-eabi-10.3-2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ctrl-Step-STM32-fw.elf/fast"/>
+					<CompileFile command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/00Green/mingw64/bin/mingw32-make.exe -f &quot;D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/.DS_Store">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/adc.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/can.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/dma.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/gpio.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/main.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/spi.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/stm32f1xx_hal_conf.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/stm32f1xx_it.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/tim.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Inc/usart.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/adc.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/can.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/dma.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/gpio.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/main.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/spi.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/stm32f1xx_hal_msp.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/stm32f1xx_it.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/syscalls.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/system_stm32f1xx.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/tim.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Core/Src/usart.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/.DS_Store">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Driver/driver_base.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Driver/sin_map.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Driver/tb67h450_base.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Driver/tb67h450_base.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Motor/motion_planner.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Motor/motion_planner.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Motor/motor.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Motor/motor.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Sensor/Encoder/encoder_base.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Sensor/Encoder/encoder_calibrator_base.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Sensor/Encoder/encoder_calibrator_base.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Sensor/Encoder/mt6816_base.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Sensor/Encoder/mt6816_base.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Signal/button_base.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Signal/button_base.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Signal/led_base.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Ctrl/Signal/led_base.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/.DS_Store">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/cmsis_armcc.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/cmsis_armclang.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/cmsis_compiler.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/cmsis_gcc.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/cmsis_iccarm.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/cmsis_version.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_armv8mbl.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_armv8mml.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_cm0.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_cm0plus.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_cm1.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_cm23.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_cm3.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_cm33.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_cm4.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_cm7.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_sc000.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/core_sc300.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/mpu_armv7.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/mpu_armv8.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/CMSIS/Include/tz_context.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_can.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/Memory/eeprom_interface.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/Memory/emulated_eeprom.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/Memory/emulated_eeprom.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/Memory/stockpile_config.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/Memory/stockpile_f103cb.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/Memory/stockpile_f103cb.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/Utils/st_hardware.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/Utils/st_hardware.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/retarget.c">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/Platform/retarget.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/button_stm32.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/button_stm32.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/encoder_calibrator_stm32.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/encoder_calibrator_stm32.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/led_stm32.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/led_stm32.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/mt6816_stm32.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/mt6816_stm32.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/tb67h450_stm32.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/Port/tb67h450_stm32.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/STM32F103CBTx_FLASH.ld">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/UserApp/common_inc.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/UserApp/configurations.h">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/UserApp/main.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/UserApp/protocols/interface_can.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/UserApp/protocols/interface_uart.cpp">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/startup/startup_stm32f103xb.s">
+			<Option target="Ctrl-Step-STM32-fw.elf"/>
+		</Unit>
+		<Unit filename="D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
