@@ -1,5 +1,5 @@
 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/syscalls.c.obj: \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Core\Src\syscalls.c \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Core\Src\syscalls.c \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\stat.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\_ansi.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\newlib.h \

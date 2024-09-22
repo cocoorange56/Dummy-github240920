@@ -1,4 +1,4 @@
-#ifndef LOOP_H
+#ifndef LOOP_H  /ifndef条件编译预编译命令
 #define LOOP_H
 
 #ifdef __cplusplus

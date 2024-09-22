@@ -4,7 +4,7 @@ events:
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake:199 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake:199 (message)"
       - "CMakeLists.txt:17 (project)"
     message: |
       The target system is: Generic - 1 - 
@@ -12,9 +12,9 @@ events:
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
       - "CMakeLists.txt:17 (project)"
     message: |
       Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
@@ -32,9 +32,9 @@ events:
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
       - "CMakeLists.txt:17 (project)"
     message: |
       Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
@@ -49,14 +49,14 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
       
       The C compiler identification is GNU, found in:
-        D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o
+        D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o
       
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
       - "CMakeLists.txt:17 (project)"
     message: |
       Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
@@ -74,9 +74,9 @@ events:
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
       - "CMakeLists.txt:17 (project)"
     message: |
       Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
@@ -91,13 +91,13 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
       
       The CXX compiler identification is GNU, found in:
-        D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o
+        D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o
       
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:1102 (message)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:1102 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
       - "CMakeLists.txt:17 (project)"
     message: |
       Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
@@ -109,14 +109,14 @@ events:
   -
     kind: "try_compile-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:17 (project)"
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-p4eskv"
-      binary: "D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-p4eskv"
+      source: "D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2yi7c0"
+      binary: "D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2yi7c0"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -125,12 +125,12 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-p4eskv
+        Change Dir: D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2yi7c0
         
-        Run Build Command(s):D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 D:/00Green/mingw64/bin/mingw32-make.exe -f Makefile cmTC_e2d6c/fast && D:/00Green/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_e2d6c.dir\\build.make CMakeFiles/cmTC_e2d6c.dir/build
-        mingw32-make.exe[1]: Entering directory 'D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-p4eskv'
-        Building C object CMakeFiles/cmTC_e2d6c.dir/CMakeCCompilerABI.c.obj
-        D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj -c D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c
+        Run Build Command(s):D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 D:/00Green/mingw64/bin/mingw32-make.exe -f Makefile cmTC_1fa5b/fast && D:/00Green/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_1fa5b.dir\\build.make CMakeFiles/cmTC_1fa5b.dir/build
+        mingw32-make.exe[1]: Entering directory 'D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2yi7c0'
+        Building C object CMakeFiles/cmTC_1fa5b.dir/CMakeCCompilerABI.c.obj
+        D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj -c D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe
         Target: arm-none-eabi
@@ -138,8 +138,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-         d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -iprefix d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o C:\\Users\\FORMUL~1\\AppData\\Local\\Temp\\ccSVawX1.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+         d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -iprefix d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o C:\\Users\\10426\\AppData\\Local\\Temp\\cco0kN3h.s
         GNU C17 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)
         	compiled by GNU C version 7.3-win32 20180312, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
         
@@ -160,25 +160,25 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: f3937ce18b4177bfd408ca565336596a
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-         d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj C:\\Users\\FORMUL~1\\AppData\\Local\\Temp\\ccSVawX1.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+         d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj C:\\Users\\10426\\AppData\\Local\\Temp\\cco0kN3h.s
         GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621
         COMPILER_PATH=d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-        Linking C static library libcmTC_e2d6c.a
-        D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\bin\\cmake.exe -P CMakeFiles\\cmTC_e2d6c.dir\\cmake_clean_target.cmake
-        D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_e2d6c.dir\\link.txt --verbose=1
-        arm-none-eabi-ar qc libcmTC_e2d6c.a CMakeFiles/cmTC_e2d6c.dir/CMakeCCompilerABI.c.obj
-        D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_e2d6c.a
-        mingw32-make.exe[1]: Leaving directory 'D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-p4eskv'
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+        Linking C static library libcmTC_1fa5b.a
+        D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\bin\\cmake.exe -P CMakeFiles\\cmTC_1fa5b.dir\\cmake_clean_target.cmake
+        D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_1fa5b.dir\\link.txt --verbose=1
+        arm-none-eabi-ar qc libcmTC_1fa5b.a CMakeFiles/cmTC_1fa5b.dir/CMakeCCompilerABI.c.obj
+        D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_1fa5b.a
+        mingw32-make.exe[1]: Leaving directory 'D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2yi7c0'
         
       exitCode: 0
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:17 (project)"
     message: |
       Parsed C implicit include dir info: rv=done
@@ -197,18 +197,18 @@ events:
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:152 (message)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:152 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:17 (project)"
     message: |
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(arm-none-eabi-ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-p4eskv]
+        ignore line: [Change Dir: D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2yi7c0]
         ignore line: []
-        ignore line: [Run Build Command(s):D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 D:/00Green/mingw64/bin/mingw32-make.exe -f Makefile cmTC_e2d6c/fast && D:/00Green/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_e2d6c.dir\\build.make CMakeFiles/cmTC_e2d6c.dir/build]
-        ignore line: [mingw32-make.exe[1]: Entering directory 'D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-p4eskv']
-        ignore line: [Building C object CMakeFiles/cmTC_e2d6c.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj -c D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s):D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 D:/00Green/mingw64/bin/mingw32-make.exe -f Makefile cmTC_1fa5b/fast && D:/00Green/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_1fa5b.dir\\build.make CMakeFiles/cmTC_1fa5b.dir/build]
+        ignore line: [mingw32-make.exe[1]: Entering directory 'D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2yi7c0']
+        ignore line: [Building C object CMakeFiles/cmTC_1fa5b.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj -c D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe]
         ignore line: [Target: arm-none-eabi]
@@ -216,8 +216,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [ d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -iprefix d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o C:\\Users\\FORMUL~1\\AppData\\Local\\Temp\\ccSVawX1.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [ d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -iprefix d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o C:\\Users\\10426\\AppData\\Local\\Temp\\cco0kN3h.s]
         ignore line: [GNU C17 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
         ignore line: []
@@ -238,8 +238,8 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: f3937ce18b4177bfd408ca565336596a]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [ d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj C:\\Users\\FORMUL~1\\AppData\\Local\\Temp\\ccSVawX1.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [ d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj C:\\Users\\10426\\AppData\\Local\\Temp\\cco0kN3h.s]
         ignore line: [GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621]
         ignore line: [COMPILER_PATH=d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/]
         ignore line: [d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/]
@@ -248,13 +248,13 @@ events:
         ignore line: [d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/]
         ignore line: [d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_e2d6c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [Linking C static library libcmTC_e2d6c.a]
-        ignore line: [D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\bin\\cmake.exe -P CMakeFiles\\cmTC_e2d6c.dir\\cmake_clean_target.cmake]
-        ignore line: [D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_e2d6c.dir\\link.txt --verbose=1]
-        ignore line: [arm-none-eabi-ar qc libcmTC_e2d6c.a CMakeFiles/cmTC_e2d6c.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_e2d6c.a]
-        ignore line: [mingw32-make.exe[1]: Leaving directory 'D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-p4eskv']
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_1fa5b.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [Linking C static library libcmTC_1fa5b.a]
+        ignore line: [D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\bin\\cmake.exe -P CMakeFiles\\cmTC_1fa5b.dir\\cmake_clean_target.cmake]
+        ignore line: [D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_1fa5b.dir\\link.txt --verbose=1]
+        ignore line: [arm-none-eabi-ar qc libcmTC_1fa5b.a CMakeFiles/cmTC_1fa5b.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_1fa5b.a]
+        ignore line: [mingw32-make.exe[1]: Leaving directory 'D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2yi7c0']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -266,14 +266,14 @@ events:
   -
     kind: "try_compile-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:17 (project)"
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9oiktz"
-      binary: "D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9oiktz"
+      source: "D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l44i9j"
+      binary: "D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l44i9j"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -282,12 +282,12 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9oiktz
+        Change Dir: D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l44i9j
         
-        Run Build Command(s):D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 D:/00Green/mingw64/bin/mingw32-make.exe -f Makefile cmTC_ec399/fast && D:/00Green/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_ec399.dir\\build.make CMakeFiles/cmTC_ec399.dir/build
-        mingw32-make.exe[1]: Entering directory 'D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9oiktz'
-        Building CXX object CMakeFiles/cmTC_ec399.dir/CMakeCXXCompilerABI.cpp.obj
-        D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj -c D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp
+        Run Build Command(s):D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 D:/00Green/mingw64/bin/mingw32-make.exe -f Makefile cmTC_515ac/fast && D:/00Green/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_515ac.dir\\build.make CMakeFiles/cmTC_515ac.dir/build
+        mingw32-make.exe[1]: Entering directory 'D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l44i9j'
+        Building CXX object CMakeFiles/cmTC_515ac.dir/CMakeCXXCompilerABI.cpp.obj
+        D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj -c D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe
         Target: arm-none-eabi
@@ -295,8 +295,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-         d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -iprefix d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj -version -fdiagnostics-color=always -o C:\\Users\\FORMUL~1\\AppData\\Local\\Temp\\cc5zJISJ.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+         d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -iprefix d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj -version -fdiagnostics-color=always -o C:\\Users\\10426\\AppData\\Local\\Temp\\ccTdRfW5.s
         GNU C++14 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)
         	compiled by GNU C version 7.3-win32 20180312, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
         
@@ -323,25 +323,25 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: f8787892a7c5aa84cea58dce52be7118
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-         d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\FORMUL~1\\AppData\\Local\\Temp\\cc5zJISJ.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+         d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\10426\\AppData\\Local\\Temp\\ccTdRfW5.s
         GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621
         COMPILER_PATH=d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/;d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
-        Linking CXX static library libcmTC_ec399.a
-        D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\bin\\cmake.exe -P CMakeFiles\\cmTC_ec399.dir\\cmake_clean_target.cmake
-        D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_ec399.dir\\link.txt --verbose=1
-        arm-none-eabi-ar qc libcmTC_ec399.a CMakeFiles/cmTC_ec399.dir/CMakeCXXCompilerABI.cpp.obj
-        D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_ec399.a
-        mingw32-make.exe[1]: Leaving directory 'D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9oiktz'
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t'
+        Linking CXX static library libcmTC_515ac.a
+        D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\bin\\cmake.exe -P CMakeFiles\\cmTC_515ac.dir\\cmake_clean_target.cmake
+        D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_515ac.dir\\link.txt --verbose=1
+        arm-none-eabi-ar qc libcmTC_515ac.a CMakeFiles/cmTC_515ac.dir/CMakeCXXCompilerABI.cpp.obj
+        D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_515ac.a
+        mingw32-make.exe[1]: Leaving directory 'D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l44i9j'
         
       exitCode: 0
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:17 (project)"
     message: |
       Parsed CXX implicit include dir info: rv=done
@@ -366,18 +366,18 @@ events:
   -
     kind: "message-v1"
     backtrace:
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:152 (message)"
-      - "D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:152 (message)"
+      - "D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
       - "CMakeLists.txt:17 (project)"
     message: |
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(arm-none-eabi-ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9oiktz]
+        ignore line: [Change Dir: D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l44i9j]
         ignore line: []
-        ignore line: [Run Build Command(s):D:/00Green/CLion-2023.2.3.win.Green/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 D:/00Green/mingw64/bin/mingw32-make.exe -f Makefile cmTC_ec399/fast && D:/00Green/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_ec399.dir\\build.make CMakeFiles/cmTC_ec399.dir/build]
-        ignore line: [mingw32-make.exe[1]: Entering directory 'D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9oiktz']
-        ignore line: [Building CXX object CMakeFiles/cmTC_ec399.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj -c D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s):D:/00Green/CLion-2023.2.3.win/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 D:/00Green/mingw64/bin/mingw32-make.exe -f Makefile cmTC_515ac/fast && D:/00Green/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_515ac.dir\\build.make CMakeFiles/cmTC_515ac.dir/build]
+        ignore line: [mingw32-make.exe[1]: Entering directory 'D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l44i9j']
+        ignore line: [Building CXX object CMakeFiles/cmTC_515ac.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj -c D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe]
         ignore line: [Target: arm-none-eabi]
@@ -385,8 +385,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [ d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -iprefix d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj -version -fdiagnostics-color=always -o C:\\Users\\FORMUL~1\\AppData\\Local\\Temp\\cc5zJISJ.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [ d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -iprefix d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot d:\\00green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -auxbase-strip CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj -version -fdiagnostics-color=always -o C:\\Users\\10426\\AppData\\Local\\Temp\\ccTdRfW5.s]
         ignore line: [GNU C++14 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
         ignore line: []
@@ -413,8 +413,8 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: f8787892a7c5aa84cea58dce52be7118]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [ d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\FORMUL~1\\AppData\\Local\\Temp\\cc5zJISJ.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [ d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\10426\\AppData\\Local\\Temp\\ccTdRfW5.s]
         ignore line: [GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621]
         ignore line: [COMPILER_PATH=d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/]
         ignore line: [d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/]
@@ -423,13 +423,13 @@ events:
         ignore line: [d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/]
         ignore line: [d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_ec399.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
-        ignore line: [Linking CXX static library libcmTC_ec399.a]
-        ignore line: [D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\bin\\cmake.exe -P CMakeFiles\\cmTC_ec399.dir\\cmake_clean_target.cmake]
-        ignore line: [D:\\00Green\\CLion-2023.2.3.win.Green\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_ec399.dir\\link.txt --verbose=1]
-        ignore line: [arm-none-eabi-ar qc libcmTC_ec399.a CMakeFiles/cmTC_ec399.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_ec399.a]
-        ignore line: [mingw32-make.exe[1]: Leaving directory 'D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9oiktz']
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_515ac.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t']
+        ignore line: [Linking CXX static library libcmTC_515ac.a]
+        ignore line: [D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\bin\\cmake.exe -P CMakeFiles\\cmTC_515ac.dir\\cmake_clean_target.cmake]
+        ignore line: [D:\\00Green\\CLion-2023.2.3.win\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_515ac.dir\\link.txt --verbose=1]
+        ignore line: [arm-none-eabi-ar qc libcmTC_515ac.a CMakeFiles/cmTC_515ac.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [D:\\00Green\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_515ac.a]
+        ignore line: [mingw32-make.exe[1]: Leaving directory 'D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l44i9j']
         ignore line: []
         ignore line: []
         implicit libs: []

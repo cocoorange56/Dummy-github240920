@@ -1,5 +1,5 @@
 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/retarget.c.obj: \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Port\Platform\retarget.c \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Port\Platform\retarget.c \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\errno.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\errno.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\reent.h \
@@ -33,42 +33,42 @@ CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/retarget.c.obj: \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\machine\time.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_locale.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\machine\_time.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Port/Platform/retarget.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Core\Inc/stm32f1xx_hal_conf.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_rcc.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_def.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f1xx.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f103xb.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Include/core_cm3.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Port/Platform/retarget.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Core\Inc/stm32f1xx_hal_conf.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_rcc.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_def.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f1xx.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f103xb.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Include/core_cm3.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\stdint.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_intsup.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_version.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_compiler.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_gcc.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/system_stm32f1xx.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/Legacy/stm32_hal_legacy.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_rcc_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_gpio.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_gpio_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_exti.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dma.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dma_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_can.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_cortex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_adc.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_adc_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_spi.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_uart.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_version.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_compiler.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_gcc.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/system_stm32f1xx.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/Legacy/stm32_hal_legacy.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_rcc_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_gpio.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_gpio_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_exti.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dma.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dma_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_can.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_cortex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_adc.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_adc_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_spi.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_uart.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\stat.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\stdio.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdarg.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\stdio.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Core\Inc/usart.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Core\Inc/main.h
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Core\Inc/usart.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Core\Inc/main.h

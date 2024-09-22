@@ -742,8 +742,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x60 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
  .debug_ranges  0x00000000       0x50 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
- .debug_line    0x00000000      0x665 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
- .debug_str     0x00000000      0x43e CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x644 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x428 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
  .comment       0x00000000       0x4a CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
  .debug_frame   0x00000000       0xd4 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
  .ARM.attributes
@@ -824,8 +824,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x30 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
  .debug_ranges  0x00000000       0x20 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
- .debug_line    0x00000000      0x1ff CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
- .debug_str     0x00000000      0x2bf CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x00000000      0x1e9 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x00000000      0x2a9 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
  .comment       0x00000000       0x4a CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
  .debug_frame   0x00000000       0x40 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
  .ARM.attributes
@@ -875,8 +875,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xa8 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
  .debug_ranges  0x00000000       0x98 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
- .debug_line    0x00000000      0x512 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
- .debug_str     0x00000000      0x503 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x4e6 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x4ed CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
  .comment       0x00000000       0x4a CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
  .debug_frame   0x00000000      0x140 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
  .ARM.attributes
@@ -5413,150 +5413,150 @@ LOAD d:/00green/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3
  .debug_ranges  0x00001798       0x10 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_uart.cpp.obj
  .debug_ranges  0x000017a8       0x20 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/startup/startup_stm32f103xb.s.obj
 
-.debug_line     0x00000000    0x1d6e9
- .debug_line    0x00000000      0x4e8 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/adc.c.obj
- .debug_line    0x000004e8      0x55f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/can.c.obj
- .debug_line    0x00000a47      0x21d CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/dma.c.obj
- .debug_line    0x00000c64      0x31e CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/gpio.c.obj
- .debug_line    0x00000f82      0x431 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/main.c.obj
- .debug_line    0x000013b3      0x3c9 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/spi.c.obj
- .debug_line    0x0000177c      0x1bf CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x0000193b      0x536 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x00001e71      0x406 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/syscalls.c.obj
- .debug_line    0x00002277      0x288 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x000024ff      0x739 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/tim.c.obj
- .debug_line    0x00002c38      0x4e8 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/usart.c.obj
- .debug_line    0x00003120      0x5bb CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Driver/tb67h450_base.cpp.obj
- .debug_line    0x000036db      0xdbf CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Motor/motion_planner.cpp.obj
- .debug_line    0x0000449a     0x1545 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Motor/motor.cpp.obj
- .debug_line    0x000059df     0x111e CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Sensor/Encoder/encoder_calibrator_base.cpp.obj
- .debug_line    0x00006afd      0x437 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Sensor/Encoder/mt6816_base.cpp.obj
- .debug_line    0x00006f34      0x309 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Signal/button_base.cpp.obj
- .debug_line    0x0000723d      0x58b CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Signal/led_base.cpp.obj
- .debug_line    0x000077c8      0x5e0 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x00007da8      0xf66 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
- .debug_line    0x00008d0e      0xc3c CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
- .debug_line    0x0000994a     0x11a9 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
- .debug_line    0x0000aaf3      0x6b3 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x0000b1a6      0xacd CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_line    0x0000bc73      0x802 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
- .debug_line    0x0000c475      0x994 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
- .debug_line    0x0000ce09      0x65d CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x0000d466      0xcaa CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_line    0x0000e110      0x518 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
- .debug_line    0x0000e628     0x24e4 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
- .debug_line    0x00010b0c     0x46d8 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_line    0x000151e4     0x1bd8 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_line    0x00016dbc     0x2135 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_line    0x00018ef1      0x3c2 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Memory/emulated_eeprom.cpp.obj
- .debug_line    0x000192b3      0x4c0 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Memory/stockpile_f103cb.c.obj
- .debug_line    0x00019773      0x112 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Utils/st_hardware.c.obj
- .debug_line    0x00019885      0x4a3 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/retarget.c.obj
- .debug_line    0x00019d28      0x416 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/button_stm32.cpp.obj
- .debug_line    0x0001a13e      0x4f8 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/encoder_calibrator_stm32.cpp.obj
- .debug_line    0x0001a636      0x477 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/led_stm32.cpp.obj
- .debug_line    0x0001aaad      0x487 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/mt6816_stm32.cpp.obj
- .debug_line    0x0001af34      0x584 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/tb67h450_stm32.cpp.obj
- .debug_line    0x0001b4b8      0xeb2 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/main.cpp.obj
- .debug_line    0x0001c36a      0xd4a CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_can.cpp.obj
- .debug_line    0x0001d0b4      0x580 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_uart.cpp.obj
- .debug_line    0x0001d634       0xb5 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/startup/startup_stm32f103xb.s.obj
+.debug_line     0x00000000    0x1cffe
+ .debug_line    0x00000000      0x4bc CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/adc.c.obj
+ .debug_line    0x000004bc      0x528 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/can.c.obj
+ .debug_line    0x000009e4      0x1fc CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/dma.c.obj
+ .debug_line    0x00000be0      0x2fd CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00000edd      0x3fa CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x000012d7      0x39d CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/spi.c.obj
+ .debug_line    0x00001674      0x1a9 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x0000181d      0x50a CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00001d27      0x3fb CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00002122      0x272 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00002394      0x70d CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/tim.c.obj
+ .debug_line    0x00002aa1      0x4b1 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/usart.c.obj
+ .debug_line    0x00002f52      0x5b0 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Driver/tb67h450_base.cpp.obj
+ .debug_line    0x00003502      0xdb4 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Motor/motion_planner.cpp.obj
+ .debug_line    0x000042b6     0x152f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Motor/motor.cpp.obj
+ .debug_line    0x000057e5     0x10f2 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Sensor/Encoder/encoder_calibrator_base.cpp.obj
+ .debug_line    0x000068d7      0x42c CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Sensor/Encoder/mt6816_base.cpp.obj
+ .debug_line    0x00006d03      0x2fe CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Signal/button_base.cpp.obj
+ .debug_line    0x00007001      0x575 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Signal/led_base.cpp.obj
+ .debug_line    0x00007576      0x5b4 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00007b2a      0xf45 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_line    0x00008a6f      0xc1b CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_line    0x0000968a     0x117d CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+ .debug_line    0x0000a807      0x692 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x0000ae99      0xaac CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x0000b945      0x7e1 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x0000c126      0x973 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x0000ca99      0x63c CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x0000d0d5      0xc89 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x0000dd5e      0x4f7 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000e255     0x24c3 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_line    0x00010718     0x46b7 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x00014dcf     0x1bb7 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x00016986     0x2114 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_line    0x00018a9a      0x3a1 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Memory/emulated_eeprom.cpp.obj
+ .debug_line    0x00018e3b      0x49f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Memory/stockpile_f103cb.c.obj
+ .debug_line    0x000192da      0x107 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Utils/st_hardware.c.obj
+ .debug_line    0x000193e1      0x482 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/retarget.c.obj
+ .debug_line    0x00019863      0x3ea CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/button_stm32.cpp.obj
+ .debug_line    0x00019c4d      0x4b6 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/encoder_calibrator_stm32.cpp.obj
+ .debug_line    0x0001a103      0x440 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/led_stm32.cpp.obj
+ .debug_line    0x0001a543      0x450 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/mt6816_stm32.cpp.obj
+ .debug_line    0x0001a993      0x54d CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/tb67h450_stm32.cpp.obj
+ .debug_line    0x0001aee0      0xe39 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/main.cpp.obj
+ .debug_line    0x0001bd19      0xcf2 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_can.cpp.obj
+ .debug_line    0x0001ca0b      0x549 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_uart.cpp.obj
+ .debug_line    0x0001cf54       0xaa CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/startup/startup_stm32f103xb.s.obj
 
-.debug_str      0x00000000     0xac4e
- .debug_str     0x00000000      0x66b CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/adc.c.obj
-                                0x802 (size before relaxing)
- .debug_str     0x0000066b      0x8c1 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/can.c.obj
-                                0xc54 (size before relaxing)
- .debug_str     0x00000f2c       0x53 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/dma.c.obj
-                                0x548 (size before relaxing)
- .debug_str     0x00000f7f       0x83 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/gpio.c.obj
-                                0x2e5 (size before relaxing)
- .debug_str     0x00001002      0x2a4 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/main.c.obj
-                                0x4c9 (size before relaxing)
- .debug_str     0x000012a6      0x20d CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/spi.c.obj
-                                0x721 (size before relaxing)
- .debug_str     0x000014b3       0x61 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                                0x287 (size before relaxing)
- .debug_str     0x00001514      0x424 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                                0xae8 (size before relaxing)
- .debug_str     0x00001938      0x251 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/syscalls.c.obj
-                                0x46b (size before relaxing)
- .debug_str     0x00001b89       0xb3 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/system_stm32f1xx.c.obj
-                                0x2bc (size before relaxing)
- .debug_str     0x00001c3c      0x559 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/tim.c.obj
-                                0xe4c (size before relaxing)
- .debug_str     0x00002195       0xaf CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/usart.c.obj
-                                0xad6 (size before relaxing)
- .debug_str     0x00002244      0x6fe CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Driver/tb67h450_base.cpp.obj
-                                0x952 (size before relaxing)
- .debug_str     0x00002942     0x1475 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Motor/motion_planner.cpp.obj
-                               0x19cf (size before relaxing)
- .debug_str     0x00003db7      0x9ff CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Motor/motor.cpp.obj
-                               0x197b (size before relaxing)
- .debug_str     0x000047b6     0x1567 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Sensor/Encoder/encoder_calibrator_base.cpp.obj
-                               0x304c (size before relaxing)
- .debug_str     0x00005d1d      0x1a3 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Sensor/Encoder/mt6816_base.cpp.obj
-                                0x721 (size before relaxing)
- .debug_str     0x00005ec0      0x17c CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Signal/button_base.cpp.obj
-                                0x5a8 (size before relaxing)
- .debug_str     0x0000603c       0x8a CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Signal/led_base.cpp.obj
-                               0x1842 (size before relaxing)
- .debug_str     0x000060c6      0x2f5 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                                0x88c (size before relaxing)
- .debug_str     0x000063bb      0x355 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                                0x93b (size before relaxing)
- .debug_str     0x00006710      0x2aa CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
-                                0x8f4 (size before relaxing)
- .debug_str     0x000069ba      0x3d4 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
-                                0xaa6 (size before relaxing)
- .debug_str     0x00006d8e      0x383 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                                0x93b (size before relaxing)
- .debug_str     0x00007111      0x217 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
-                                0x665 (size before relaxing)
- .debug_str     0x00007328      0x2b3 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
-                                0x597 (size before relaxing)
- .debug_str     0x000075db      0x2e1 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
-                                0x6ad (size before relaxing)
- .debug_str     0x000078bc      0x13c CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                                0x468 (size before relaxing)
- .debug_str     0x000079f8      0x20f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                                0x693 (size before relaxing)
- .debug_str     0x00007c07       0xb9 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
-                                0x43b (size before relaxing)
- .debug_str     0x00007cc0      0x542 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
-                                0xbcf (size before relaxing)
- .debug_str     0x00008202      0xcfc CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                               0x16a0 (size before relaxing)
- .debug_str     0x00008efe      0x559 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
-                                0xea1 (size before relaxing)
- .debug_str     0x00009457      0x5d1 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                                0xcf6 (size before relaxing)
- .debug_str     0x00009a28      0x1ad CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Memory/emulated_eeprom.cpp.obj
-                                0x547 (size before relaxing)
- .debug_str     0x00009bd5      0x1c1 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Memory/stockpile_f103cb.c.obj
-                                0x4b1 (size before relaxing)
- .debug_str     0x00009d96       0x99 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Utils/st_hardware.c.obj
-                                0x23d (size before relaxing)
- .debug_str     0x00009e2f       0x82 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/retarget.c.obj
-                                0xb80 (size before relaxing)
- .debug_str     0x00009eb1      0x11f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/button_stm32.cpp.obj
-                                0x7b2 (size before relaxing)
- .debug_str     0x00009fd0      0x14f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/encoder_calibrator_stm32.cpp.obj
-                               0x20a1 (size before relaxing)
- .debug_str     0x0000a11f      0x111 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/led_stm32.cpp.obj
-                               0x1a87 (size before relaxing)
- .debug_str     0x0000a230      0x136 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/mt6816_stm32.cpp.obj
-                                0xbdf (size before relaxing)
- .debug_str     0x0000a366      0x1b5 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/tb67h450_stm32.cpp.obj
-                                0xf27 (size before relaxing)
- .debug_str     0x0000a51b      0x5c1 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/main.cpp.obj
-                               0x37d1 (size before relaxing)
- .debug_str     0x0000aadc       0x8f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_can.cpp.obj
-                               0x2172 (size before relaxing)
- .debug_str     0x0000ab6b       0x7f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_uart.cpp.obj
-                               0x2142 (size before relaxing)
- .debug_str     0x0000abea       0x64 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/startup/startup_stm32f103xb.s.obj
-                                 0xae (size before relaxing)
+.debug_str      0x00000000     0xaa3e
+ .debug_str     0x00000000      0x655 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/adc.c.obj
+                                0x7ec (size before relaxing)
+ .debug_str     0x00000655      0x8b6 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/can.c.obj
+                                0xc3e (size before relaxing)
+ .debug_str     0x00000f0b       0x48 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/dma.c.obj
+                                0x532 (size before relaxing)
+ .debug_str     0x00000f53       0x78 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/gpio.c.obj
+                                0x2cf (size before relaxing)
+ .debug_str     0x00000fcb      0x299 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/main.c.obj
+                                0x4b3 (size before relaxing)
+ .debug_str     0x00001264      0x202 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/spi.c.obj
+                                0x70b (size before relaxing)
+ .debug_str     0x00001466       0x56 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                                0x271 (size before relaxing)
+ .debug_str     0x000014bc      0x419 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                                0xad2 (size before relaxing)
+ .debug_str     0x000018d5      0x246 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/syscalls.c.obj
+                                0x455 (size before relaxing)
+ .debug_str     0x00001b1b       0xa8 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                                0x2a6 (size before relaxing)
+ .debug_str     0x00001bc3      0x54e CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/tim.c.obj
+                                0xe36 (size before relaxing)
+ .debug_str     0x00002111       0xa4 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/usart.c.obj
+                                0xac0 (size before relaxing)
+ .debug_str     0x000021b5      0x6f3 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Driver/tb67h450_base.cpp.obj
+                                0x93c (size before relaxing)
+ .debug_str     0x000028a8     0x146a CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Motor/motion_planner.cpp.obj
+                               0x19b9 (size before relaxing)
+ .debug_str     0x00003d12      0x9f4 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Motor/motor.cpp.obj
+                               0x1965 (size before relaxing)
+ .debug_str     0x00004706     0x155c CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Sensor/Encoder/encoder_calibrator_base.cpp.obj
+                               0x3036 (size before relaxing)
+ .debug_str     0x00005c62      0x198 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Sensor/Encoder/mt6816_base.cpp.obj
+                                0x70b (size before relaxing)
+ .debug_str     0x00005dfa      0x171 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Signal/button_base.cpp.obj
+                                0x592 (size before relaxing)
+ .debug_str     0x00005f6b       0x7f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Signal/led_base.cpp.obj
+                               0x182c (size before relaxing)
+ .debug_str     0x00005fea      0x2ea CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                0x876 (size before relaxing)
+ .debug_str     0x000062d4      0x34a CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                                0x925 (size before relaxing)
+ .debug_str     0x0000661e      0x29f CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+                                0x8de (size before relaxing)
+ .debug_str     0x000068bd      0x3c9 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c.obj
+                                0xa90 (size before relaxing)
+ .debug_str     0x00006c86      0x378 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                0x925 (size before relaxing)
+ .debug_str     0x00006ffe      0x20c CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                                0x64f (size before relaxing)
+ .debug_str     0x0000720a      0x2a8 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+                                0x581 (size before relaxing)
+ .debug_str     0x000074b2      0x2d6 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+                                0x697 (size before relaxing)
+ .debug_str     0x00007788      0x131 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                0x452 (size before relaxing)
+ .debug_str     0x000078b9      0x204 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                0x67d (size before relaxing)
+ .debug_str     0x00007abd       0xae CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+                                0x425 (size before relaxing)
+ .debug_str     0x00007b6b      0x537 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                                0xbb9 (size before relaxing)
+ .debug_str     0x000080a2      0xcf1 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                               0x168a (size before relaxing)
+ .debug_str     0x00008d93      0x54e CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                                0xe8b (size before relaxing)
+ .debug_str     0x000092e1      0x5c6 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                                0xce0 (size before relaxing)
+ .debug_str     0x000098a7      0x1a2 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Memory/emulated_eeprom.cpp.obj
+                                0x531 (size before relaxing)
+ .debug_str     0x00009a49      0x1b6 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Memory/stockpile_f103cb.c.obj
+                                0x49b (size before relaxing)
+ .debug_str     0x00009bff       0x8e CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/Utils/st_hardware.c.obj
+                                0x227 (size before relaxing)
+ .debug_str     0x00009c8d       0x77 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/Platform/retarget.c.obj
+                                0xb6a (size before relaxing)
+ .debug_str     0x00009d04      0x114 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/button_stm32.cpp.obj
+                                0x79c (size before relaxing)
+ .debug_str     0x00009e18      0x144 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/encoder_calibrator_stm32.cpp.obj
+                               0x208b (size before relaxing)
+ .debug_str     0x00009f5c      0x106 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/led_stm32.cpp.obj
+                               0x1a71 (size before relaxing)
+ .debug_str     0x0000a062      0x12b CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/mt6816_stm32.cpp.obj
+                                0xbc9 (size before relaxing)
+ .debug_str     0x0000a18d      0x1aa CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Port/tb67h450_stm32.cpp.obj
+                                0xf11 (size before relaxing)
+ .debug_str     0x0000a337      0x5b6 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/main.cpp.obj
+                               0x37bb (size before relaxing)
+ .debug_str     0x0000a8ed       0x84 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_can.cpp.obj
+                               0x215c (size before relaxing)
+ .debug_str     0x0000a971       0x74 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_uart.cpp.obj
+                               0x212c (size before relaxing)
+ .debug_str     0x0000a9e5       0x59 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/startup/startup_stm32f103xb.s.obj
+                                 0x98 (size before relaxing)
 
 .comment        0x00000000       0x49
  .comment       0x00000000       0x49 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Core/Src/adc.c.obj

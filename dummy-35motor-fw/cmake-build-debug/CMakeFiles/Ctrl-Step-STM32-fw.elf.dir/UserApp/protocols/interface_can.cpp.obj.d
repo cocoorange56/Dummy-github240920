@@ -1,6 +1,6 @@
 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_can.cpp.obj: \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\UserApp\protocols\interface_can.cpp \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\UserApp/common_inc.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\UserApp\protocols\interface_can.cpp \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\UserApp/common_inc.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint-gcc.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\c++\10.3.1\cstdio \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v7-m\nofp\bits\c++config.h \
@@ -36,60 +36,60 @@ CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/UserApp/protocols/interface_can.cpp.obj: \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\sched.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\machine\types.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\stdio.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl/Motor/motor.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl/Motor/motion_planner.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl/Motor/motor.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl/Motor/motion_planner.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\c++\10.3.1\cstdint \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\stdint.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_intsup.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl/Sensor/Encoder/encoder_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl/Driver/driver_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Port/mt6816_stm32.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl/Sensor/Encoder/mt6816_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl/Sensor/Encoder/encoder_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Port/tb67h450_stm32.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl/Driver/tb67h450_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl/Driver/driver_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Port/encoder_calibrator_stm32.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl/Sensor/Encoder/encoder_calibrator_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Port/button_stm32.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl\Signal/button_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Port/led_stm32.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl\Signal/led_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Core\Inc/adc.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Core\Inc/main.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Core\Inc/stm32f1xx_hal_conf.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_rcc.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_def.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f1xx.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f103xb.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Include/core_cm3.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_version.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_compiler.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_gcc.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/system_stm32f1xx.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/Legacy/stm32_hal_legacy.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_rcc_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_gpio.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_gpio_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_exti.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dma.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dma_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_can.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_cortex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_adc.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_adc_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_spi.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim_ex.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_uart.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\UserApp/configurations.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl/Sensor/Encoder/encoder_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl/Driver/driver_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Port/mt6816_stm32.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl/Sensor/Encoder/mt6816_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl/Sensor/Encoder/encoder_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Port/tb67h450_stm32.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl/Driver/tb67h450_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl/Driver/driver_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Port/encoder_calibrator_stm32.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl/Sensor/Encoder/encoder_calibrator_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Port/button_stm32.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl\Signal/button_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Port/led_stm32.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl\Signal/led_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Core\Inc/adc.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Core\Inc/main.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Core\Inc/stm32f1xx_hal_conf.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_rcc.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_def.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f1xx.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f103xb.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Include/core_cm3.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_version.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_compiler.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Include/cmsis_gcc.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/system_stm32f1xx.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/Legacy/stm32_hal_legacy.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_rcc_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_gpio.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_gpio_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_exti.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dma.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dma_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_can.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_cortex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_adc.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_adc_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_spi.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim_ex.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_uart.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\UserApp/configurations.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Port/Platform/Memory/eeprom_interface.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Port/Platform/Memory/emulated_eeprom.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f103xb.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Core\Inc/can.h
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Port/Platform/Memory/eeprom_interface.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Port/Platform/Memory/emulated_eeprom.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f103xb.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Core\Inc/can.h

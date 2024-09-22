@@ -1,4 +1,4 @@
-# Install script for directory: D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw
+# Install script for directory: D:/0-Code/dummy-gitee240920/dummy-35motor-fw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/00PubData/00UbuntuShare/Dummy-spark/dummy-35motor-fw/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/0-Code/dummy-gitee240920/dummy-35motor-fw/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

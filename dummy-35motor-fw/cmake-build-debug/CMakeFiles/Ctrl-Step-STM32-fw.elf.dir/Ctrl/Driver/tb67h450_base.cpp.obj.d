@@ -1,7 +1,7 @@
 CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Driver/tb67h450_base.cpp.obj: \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl\Driver\tb67h450_base.cpp \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl\Driver\tb67h450_base.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl\Driver\driver_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl\Driver\tb67h450_base.cpp \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl\Driver\tb67h450_base.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl\Driver\driver_base.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\c++\10.3.1\cstdint \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v7-m\nofp\bits\c++config.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v7-m\nofp\bits\os_defines.h \
@@ -14,7 +14,7 @@ CMakeFiles/Ctrl-Step-STM32-fw.elf.dir/Ctrl/Driver/tb67h450_base.cpp.obj: \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\_newlib_version.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_intsup.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_stdint.h \
- D:\00PubData\00UbuntuShare\Dummy-spark\dummy-35motor-fw\Ctrl\Driver\sin_map.h \
+ D:\0-Code\dummy-gitee240920\dummy-35motor-fw\Ctrl\Driver\sin_map.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\c++\10.3.1\cmath \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\c++\10.3.1\bits\cpp_type_traits.h \
  d:\00green\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\c++\10.3.1\ext\type_traits.h \
